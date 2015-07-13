@@ -1,0 +1,11 @@
+web:
+  build: ./web
+  ports:
+    - "2000:2000"
+  links:
+    - db
+
+db:
+  image: cretzel/rpi-mongodb
+  volumes:
+    - db:/data/db
