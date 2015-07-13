@@ -31,6 +31,10 @@ open http://ip-or-your-rpi:2000/#manager
 ```
 You can see the different behavior of logins with the above sample urls
 
+Architecture
+------------
+
+![alt tag](https://raw.github.com/karthik2706/DockerSpotLightApp/blob/master/architecture.png)
 
 License
 -------
