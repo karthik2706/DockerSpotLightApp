@@ -34,7 +34,7 @@ You can see the different behavior of logins with the above sample urls
 Architecture
 ------------
 
-![alt tag](https://raw.github.com/karthik2706/DockerSpotLightApp/blob/master/architecture.png)
+![alt tag](https://github.com/karthik2706/DockerSpotLightApp/blob/master/architecture.png)
 
 License
 -------
