@@ -1,4 +1,4 @@
-Spotlight App POC running on Raspberry Pi
+Spotlight App running on Raspberry Pi
 =======
 
 [Building a SpoltLight app to work with Node.js and MongoDB]
