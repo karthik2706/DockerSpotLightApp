@@ -147,6 +147,8 @@
 
     function renderAllTodos(data) {
         var html = '';
+        todoOpen = 0;
+        todoCompleted = 0;
         if (!data) return;
         data.forEach(function(k) {
             if(loginType == 'developer'){
